@@ -1,0 +1,7 @@
+langchain
+pandasai
+langchain-groq
+langchain-experimental
+streamlit
+python-dotenv
+pandasai
